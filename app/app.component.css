@@ -1,0 +1,10 @@
+.border{
+    display: inline-block;
+    
+    border: 4px black solid;
+
+}
+
+.guess{
+    display: inline-block;
+}

@@ -1,0 +1,51 @@
+[
+    {
+        "name":"chaya",
+        "id": 1,
+        "role":1,
+        "salary": 9000
+    },{
+        "name":"efrat",
+        "id":2,
+        "role":2,
+        "salary": 1000
+    },{
+        "name":"bil",
+        "id":3,
+        "role":3,
+        "salary": 14000
+    
+    },{
+        "name":"lea",
+        "id":4,
+        "role":2,
+        "salary": 6000
+    
+    },{
+        "name":"lion",
+        "id":5,
+        "role":1,
+        "salary": 10000
+    },{
+        "name":"ili",
+        "id":6,
+        "role":3,
+        "salary": 12000
+    },{
+        "name":"rachel",
+        "id":7,
+        "role":1,
+        "salary": 8000
+    },{
+        "name":"shimi",
+        "id":8,
+        "role":3,
+        "salary": 12000
+    },{
+        "name":"lvi",
+        "id":9,
+        "role":2,
+        "salary": 4000
+    }
+                            
+]
